@@ -11,7 +11,7 @@ include 'mdocs.php';
 <html>
 <head>	
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-		<title>mDocs - <?php echo $file; ?></title>
+		<title>Ultralite2 API Docs - <?php echo $file; ?></title>
 		<link rel="stylesheet" type="text/css" media="all" href="mdocs.css">
 </head>
 <body>
@@ -29,7 +29,8 @@ include 'mdocs.php';
 			</div>
 			
 			<div id="footer">
-				<p>This documentation is released under a <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Attribution-NonCommercial-ShareAlike 3.0</a> License.</p>
+				<p>Thanks to Jay Williams (US), Alban Leroux (FR) for writing this documentation.</br>
+				This documentation is released under a <a href="http://creativecommons.org/licenses/by-sa/3.0/">Attribution-ShareAlike 3.0</a> License.</p>
 			</div>
 		</div>
 </body>

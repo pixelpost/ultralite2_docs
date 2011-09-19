@@ -29,13 +29,13 @@ $config->extension = '.md';
 /**
  * The file to load, when no file is specified
  */
-$config->index     = 'Core/Core';
+$config->index     = 'Home';
 
 /**
  * Default Syntax Highlighting Language
  * @see /assets/geshi/ for complete list.
  */
-$config->language  = 'javascript';
+$config->language  = 'php';
 
 /**
  * The highest/lowest header level to include in the Table of Contents
